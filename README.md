@@ -1,0 +1,1 @@
+# perf-test-allure-report
